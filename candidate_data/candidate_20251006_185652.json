@@ -1,0 +1,56 @@
+{
+  "timestamp": "20251006_185652",
+  "candidate_info": {
+    "full_name": "Anand Vishwakarma",
+    "email": "anandvishwakarma@gmail.com",
+    "phone": "7011472391",
+    "years_experience": "1",
+    "desired_position": "AI/ML Intern",
+    "current_location": "Raigarh and India",
+    "tech_stack": [
+      "python"
+    ]
+  },
+  "technical_questions": [
+    "Explain the difference between lists and tuples in Python. When would you choose one over the other?",
+    "Describe the concept of decorators in Python. Provide a simple example of how you might use one.",
+    "How does Python's garbage collection work? What are the advantages and disadvantages of this approach?",
+    "Explain the use of generators and iterators in Python. How do they contribute to memory efficiency, especially when dealing with large datasets?",
+    "Describe the Global Interpreter Lock (GIL) in Python. What impact does it have on multithreaded Python programs, and how can you work around it?"
+  ],
+  "candidate_answers": [
+    "List are mutable and Tuples are immutable",
+    "Decoraters are the funcitons to change the state",
+    "Nil",
+    "DOnt Know",
+    "Global Var"
+  ],
+  "questions_and_answers": [
+    {
+      "question_number": 1,
+      "question": "Explain the difference between lists and tuples in Python. When would you choose one over the other?",
+      "answer": "List are mutable and Tuples are immutable"
+    },
+    {
+      "question_number": 2,
+      "question": "Describe the concept of decorators in Python. Provide a simple example of how you might use one.",
+      "answer": "Decoraters are the funcitons to change the state"
+    },
+    {
+      "question_number": 3,
+      "question": "How does Python's garbage collection work? What are the advantages and disadvantages of this approach?",
+      "answer": "Nil"
+    },
+    {
+      "question_number": 4,
+      "question": "Explain the use of generators and iterators in Python. How do they contribute to memory efficiency, especially when dealing with large datasets?",
+      "answer": "DOnt Know"
+    },
+    {
+      "question_number": 5,
+      "question": "Describe the Global Interpreter Lock (GIL) in Python. What impact does it have on multithreaded Python programs, and how can you work around it?",
+      "answer": "Global Var"
+    }
+  ],
+  "status": "initial_screening_complete"
+}
