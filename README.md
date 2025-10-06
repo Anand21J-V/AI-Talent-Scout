@@ -41,8 +41,8 @@ TalentScout automates the initial stages of candidate screening by:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd talentscout-hiring-assistant
+   git clone https://github.com/Anand21J-V/AI-Talent-Scout.git
+   cd AI-Talent-Scout
    ```
 
 2. **Create a virtual environment**
